@@ -87,7 +87,7 @@ editor.StyleManager.addProperty('decorations', {
   type: 'gradient', // <- new type
   name: 'Gradient',
   property: 'background-image',
-  defaults: 'none'
+  defaults: 'none',
   full: true,
 });
 
